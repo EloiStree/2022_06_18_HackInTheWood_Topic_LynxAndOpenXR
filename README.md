@@ -7,7 +7,8 @@ With COVID 19, I stopped having VR project but with the Lynx-R1 coming soon. I n
 
 So let's relearn how to create VR project but with the OpenXR and all the opensource lib the Lynx could/will use.
 
-
+Google Slide:
+- https://docs.google.com/presentation/d/1gVUTYY_wAOZR6TF3pnw4wGh7BjlUdNuoikgcT9Yvt24/edit?usp=sharing
 
 Other linked repository:
 - https://github.com/EloiStree/HelloLynxR1

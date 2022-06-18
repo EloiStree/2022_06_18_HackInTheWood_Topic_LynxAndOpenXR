@@ -113,12 +113,11 @@ Topic unskippable:
 -
 -
 
-# 5:
+# 5: OpenXR & Unity System Introduction
 
--
--
--
--
+- Rewired: https://assetstore.unity.com/packages/tools/utilities/rewired-21676 
+- Thomas Van Bowel example of code
+- 
 -
 -
 -
@@ -137,27 +136,32 @@ Topic unskippable:
 -
 -
 
-# 6:
+# 6: What we know won't changed
 
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
+For variable you can use Unity System, yours or Rewired. 
+For local point in space you can use Transform.
+
+- Head & Center Eyes
+- Controller Position (Warning on rotation)
+- Root of the tracked Zone (event if lot's of way to do it it can be resume to one Transform point)
+- A l'exception du Guardian(s) swap
+- The ground, floor and wall ingame "detection"
+- Oculus vs Ultar Leap vs Manus&Others vs Hololens vs Myo
+- Finger of the hands
+- Blurry zone of the hands wrist
+- Ultra leap and arms tracked
+- 
+- Vocal : Audio > Service (online ou offline) > Group of words
+- " Vocal plus: Alexa, Facebook Ai ... >string and context "
+- Spectrum of Voice: Training > Pattern > String Event (with start and end)
+- Future ?
+- "Eyes Tracking ? Origine and destination"
+- Oculus AI  based on camera in the Quest and outside the Quest #ViveOrigin
+- "Body part track anchor points" Kinect and Open CV ?
+- Mesh Around and in front ?
+- Compute Shader & Job System vs Mesh or API 
+- Sub topic: Kinect challenge of 512x420 = 215040 points (on phone it is a lot)
+- AI Image Recognition service ?
+- String words Cloud.
+
 

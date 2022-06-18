@@ -12,6 +12,7 @@ Topic unskippable:
      - For Hands 
   - How to use Unity System
   - Alterantive Transform and [Rewired](https://assetstore.unity.com/packages/tools/utilities/rewired-21676)
+  - Unity Package a good way to split and avoid spaghetti code.
 
 (Note: I can't help on that topic but WebXR is good solution for some VR project because you can publish without publishing and so bypass le store blockage at the cost of having user kowing you exists.) 
 
@@ -150,7 +151,6 @@ For local point in space you can use Transform.
 - Finger of the hands
 - Blurry zone of the hands wrist
 - Ultra leap and arms tracked
-- 
 - Vocal : Audio > Service (online ou offline) > Group of words
 - " Vocal plus: Alexa, Facebook Ai ... >string and context "
 - Spectrum of Voice: Training > Pattern > String Event (with start and end)
@@ -162,7 +162,35 @@ For local point in space you can use Transform.
 - Mesh Around and in front ?
 - Compute Shader & Job System vs Mesh or API 
 - Sub topic: Kinect challenge of 512x420 = 215040 points (on phone it is a lot)
-- AI Image Recognition service ?
-- String words Cloud.
+- AI Image Recognition service ? String words Cloud.
+
+#7: Unity Package and Quarantine Zone
+
+One of my best way to avoid interdependance is to use the Unity Package System to create walls between project that should not be connected by really want to be linked.
+
+- Assembly in Unity
+- Package in Unity
+- Joint Package
+- Demo Package #F**kOculusIntegreation
+- 
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+
+
+
 
 

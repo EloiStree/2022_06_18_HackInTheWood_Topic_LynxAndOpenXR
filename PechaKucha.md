@@ -154,6 +154,7 @@ For local point in space you can use Transform.
 - Vocal : Audio > Service (online ou offline) > Group of words
 - " Vocal plus: Alexa, Facebook Ai ... >string and context "
 - Spectrum of Voice: Training > Pattern > String Event (with start and end)
+- EEG technology : NextMind  API > String Event + String State
 - Future ?
 - "Eyes Tracking ? Origine and destination"
 - Oculus AI  based on camera in the Quest and outside the Quest #ViveOrigin

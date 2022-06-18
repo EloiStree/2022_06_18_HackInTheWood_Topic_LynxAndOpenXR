@@ -6,3 +6,9 @@ Every now and then Unity and the VR industry change the way you interface your g
 With COVID 19, I stopped having VR project but with the Lynx-R1 coming soon. I need to relearn the basic.
 
 So let's relearn how to create VR project but with the OpenXR and all the opensource lib the Lynx could/will use.
+
+
+
+Other linked repository:
+- https://github.com/EloiStree/HelloLynxR1
+- https://github.com/EloiStree/HelloOpenXR

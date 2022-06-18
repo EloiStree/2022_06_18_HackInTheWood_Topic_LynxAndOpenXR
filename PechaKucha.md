@@ -13,6 +13,7 @@ Topic unskippable:
   - How to use Unity System
   - Alterantive Transform and [Rewired](https://assetstore.unity.com/packages/tools/utilities/rewired-21676)
   - Unity Package a good way to split and avoid spaghetti code.
+- Side Quest: How to install APK
 
 (Note: I can't help on that topic but WebXR is good solution for some VR project because you can publish without publishing and so bypass le store blockage at the cost of having user kowing you exists.) 
 

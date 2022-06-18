@@ -16,33 +16,26 @@ Topic unskippable:
 
 (Note: I can't help on that topic but WebXR is good solution for some VR project because you can publish without publishing and so bypass le store blockage at the cost of having user kowing you exists.) 
 
+# 0 : Lynx a hope in the rise of the Open Community
 
+OK so OpenXR, just a reminder that all this API exist and are different:
+- Steam VR API
+- Oculus API
+- Microsoft MR API
+- Sony PS API
+- WebXR API
+- Alternative VR API
+- Phone Gryo API
 
-# 1:
+But... you also have AR
+- ARkit API
+- ARCore API
+- ...
 
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
+What will happen when AR Glass will arrive on the market from several company at the same time
 
-# 2:
+So Open XR... What is it ?
+And why I think the Lynx through it company is a game changer.
 
 -
 -
@@ -66,7 +59,7 @@ Topic unskippable:
 -
 -
 
-# 3:
+# 1: AR Lynx vs Oculus Quest 2 vs Hololens like vs Future
 
 -
 -
@@ -90,7 +83,7 @@ Topic unskippable:
 -
 -
 
-# 4:
+# 2: How to setup Unity For Quest 2 AR with Hand
 
 -
 -
@@ -114,7 +107,7 @@ Topic unskippable:
 -
 -
 
-# 5: OpenXR & Unity System Introduction
+# 3: OpenXR & Unity System Introduction
 
 - Rewired: https://assetstore.unity.com/packages/tools/utilities/rewired-21676 
 - Thomas Van Bowel example of code
@@ -136,6 +129,55 @@ Topic unskippable:
 -
 -
 -
+
+# 4: Track Hands with Open XR 
+
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+
+# 5: Track Controller input with Open XR
+
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+
 
 # 6: What we know won't changed
 

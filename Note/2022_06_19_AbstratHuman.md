@@ -35,3 +35,10 @@ Unity Action Base
 ![image](https://user-images.githubusercontent.com/20149493/174498771-bcdbf0d4-a995-47b3-a08b-cf225e75f053.png)
 ![image](https://user-images.githubusercontent.com/20149493/174498781-99c8e9d0-e9fd-4dcc-947c-dc4080dafb5c.png)
 
+
+
+# Hands
+
+Mixamo:
+![image](https://user-images.githubusercontent.com/20149493/174511199-ef785eee-1efe-4552-be93-8476387666a8.png)
+

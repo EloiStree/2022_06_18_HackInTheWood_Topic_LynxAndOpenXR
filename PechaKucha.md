@@ -138,6 +138,8 @@ And why I think the Lynx through it company is a game changer.
 
 # Short reminder that all the presentation is on Github
 
+GitHub: https://github.com/EloiStree/2022_06_18_HackInTheWood_Topic_LynxAndOpenXR/
+
 # 3:  Unity System Introduction
 
 - Rewired: https://assetstore.unity.com/packages/tools/utilities/rewired-21676 

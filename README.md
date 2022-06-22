@@ -9,6 +9,7 @@ So let's relearn how to create VR project but with the OpenXR and all the openso
 
 Google Slide:
 - https://docs.google.com/presentation/d/1gVUTYY_wAOZR6TF3pnw4wGh7BjlUdNuoikgcT9Yvt24/edit?usp=sharing
+- Slide drop to contruct the main slide [v](https://docs.google.com/presentation/d/1fwGzOCaWWjLThRqQB6h6YEemq6csou14LidWxqCJPGI/edit#slide=id.g136300da733_0_18)
 
 Other linked repository:
 - https://github.com/EloiStree/HelloLynxR1

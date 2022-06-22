@@ -241,3 +241,4 @@ For local point in space you can use Transform.
 - I will spend all next year on Lynx so feel free to sent me contact or ask question at anytime on the subject.
 
 
+# PS: Compute Shader and Job System for the Mesh

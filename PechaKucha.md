@@ -33,58 +33,52 @@ But... you also have AR
 - ARCore API
 - ...
 
+- Mark VS Stan
+
+
+
 What will happen when AR Glass will arrive on the market from several company at the same time
 
 So Open XR... What is it ?
 And why I think the Lynx through it company is a game changer.
 
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
+# 0: Disclaimer: It makes 10 years that I have a food in the undustrie but it makes 2 years I did not touch VR.
+- COVID yes but mainly because Meta
+- Mark Lock Down: 3-5 weeks review before publishing
+- Be accepted don't means beeing publish you are add to calendar
+- You can't publish something that is not MVP and you still have 2-4 weeks review and can be refused
+- I tried to work 7j/7 on WMR but realized that we need an OS or at least a perfect screen resolution to do that.
 
-# 1: AR Lynx vs Oculus Quest 2 vs Hololens like vs Future
+But then ![image](https://user-images.githubusercontent.com/20149493/175124900-6752cd95-5fb7-434b-b5ba-7bd92e3d2da8.png)
 
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
 
-# 2: How to setup Unity For Quest 2 AR with Hand
+
+
+
+#1 Lynx Is coming
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+- AR Lynx vs Oculus Quest 2 vs Hololens like vs Future
+-
+-
+- As the Lynx this year and the other next year. Let's prepare ourself on Open XR and Quest.
+
+# 1: Oculus Quest hand API and Ultar Leap
 
 -
 -
@@ -108,10 +102,38 @@ And why I think the Lynx through it company is a game changer.
 -
 -
 
-# 3: OpenXR & Unity System Introduction
+# 2: Hands instead of controller
+
+- Oculus vs Hololens vs Leap
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+
+# Short reminder that all the presentation is on Github
+
+# 3:  Unity System Introduction
 
 - Rewired: https://assetstore.unity.com/packages/tools/utilities/rewired-21676 
 - Thomas Van Bowel example of code
+- Example de Magic Door 24
+- Start example by explaining the Kinect problem instead of the controller The follow step is the continuation
 - 
 -
 -
@@ -128,10 +150,8 @@ And why I think the Lynx through it company is a game changer.
 -
 -
 -
--
--
 
-# 4: Track Hands with Open XR 
+# 4: What is Open XR and how to use it
 
 -
 -
@@ -155,8 +175,7 @@ And why I think the Lynx through it company is a game changer.
 -
 -
 
-# 5: Track Controller input with Open XR
-
+# 5: How to setup un AR Pass through app on Quest 2
 -
 -
 -
@@ -180,7 +199,10 @@ And why I think the Lynx through it company is a game changer.
 -
 
 
-# 6: What we know won't changed
+# 6: Demo of the library MRTK, ToolKit, ?VRTK?, Asset store
+
+
+# 7: What we know won't changed
 
 For variable you can use Unity System, yours or Rewired. 
 For local point in space you can use Transform.
@@ -207,33 +229,15 @@ For local point in space you can use Transform.
 - Sub topic: Kinect challenge of 512x420 = 215040 points (on phone it is a lot)
 - AI Image Recognition service ? String words Cloud.
 
-#7: Unity Package and Quarantine Zone
+# 8 Call to action: It is a good moment to re-start on VR.
 
-One of my best way to avoid interdependance is to use the Unity Package System to create walls between project that should not be connected by really want to be linked.
-
-- Assembly in Unity
-- Package in Unity
-- Joint Package
-- Demo Package #F**kOculusIntegreation
-- 
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
-
-
-
+- Micro oled
+- AR Passtrhough
+- Open XR that start to be ready
+- Oculus Quest "3" with I hope will provide 3D mesh of the room and Color AR passthrough
+- Unity Input System that allows abstraction on the industry for most application
+- ECS and Job system that allows multithreading
+- Question
+- I will spend all next year on Lynx so feel free to sent me contact or ask question at anytime on the subject.
 
 

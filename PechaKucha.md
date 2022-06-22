@@ -17,21 +17,43 @@ Topic unskippable:
 
 (Note: I can't help on that topic but WebXR is good solution for some VR project because you can publish without publishing and so bypass le store blockage at the cost of having user kowing you exists.) 
 
+# 0: Disclaimer: It makes 10 years that I have a foot in the industrie but it makes 2-3 years I did not touch VR.
+- We need to kill the keyboard... like I said 2 years ago and since then I spent lot's of time creating lib for that.
+- Tired of re-learning how to do virtual reality every  6 months
+    -  (VRTK V1 2 3 4 5, DK1 screen DK2 API Gear VR Android  Quest 6dof Oculus half Open XR, Oculus full XR and Action based)...
+    -  And I don't talk about Hololens API that is totaly different from the Steam VR.
+    -  Like you can understand that the topic of this talk.
+    -  OK so OpenXR, just a reminder that all this API exist and are different
+       - Steam VR API
+       - Oculus API
+       - Microsoft MR API
+       - Sony PS API
+       - WebXR API
+       - Alternative VR API
+       - Phone Gryo API
+       - But... you also have AR
+       - ARkit API
+       - ARCore API
+       - Open CV
+    -  Why Now I plan to restart VR ? 
+- COVID yes but mainly because Mark and it is pre-Meta
+
+Let's me talk about the story:
+
+> One device to rule them all, one device to find them,
+> One device to bring them all, and in the adsness bind them;
+> In the Land of Meta where the shadows lie.
+
+The story of the a device, a device sorge to
+- Mark Lock Down: 3-5 weeks review before publishing
+- Be accepted don't means beeing publish you are add to calendar
+- You can't publish something that is not MVP and you still have 2-4 weeks review and can be refused
+
+But then ![image](https://user-images.githubusercontent.com/20149493/175124900-6752cd95-5fb7-434b-b5ba-7bd92e3d2da8.png)
+> Look to my coming on the first light of the september month, at dawn look to the east.
+
+
 # 0 : Lynx a hope in the rise of the Open Community
-
-OK so OpenXR, just a reminder that all this API exist and are different:
-- Steam VR API
-- Oculus API
-- Microsoft MR API
-- Sony PS API
-- WebXR API
-- Alternative VR API
-- Phone Gryo API
-
-But... you also have AR
-- ARkit API
-- ARCore API
-- ...
 
 - Mark VS Stan
 
@@ -41,18 +63,6 @@ What will happen when AR Glass will arrive on the market from several company at
 
 So Open XR... What is it ?
 And why I think the Lynx through it company is a game changer.
-
-# 0: Disclaimer: It makes 10 years that I have a food in the undustrie but it makes 2 years I did not touch VR.
-- COVID yes but mainly because Meta
-- Mark Lock Down: 3-5 weeks review before publishing
-- Be accepted don't means beeing publish you are add to calendar
-- You can't publish something that is not MVP and you still have 2-4 weeks review and can be refused
-- I tried to work 7j/7 on WMR but realized that we need an OS or at least a perfect screen resolution to do that.
-
-But then ![image](https://user-images.githubusercontent.com/20149493/175124900-6752cd95-5fb7-434b-b5ba-7bd92e3d2da8.png)
-
-
-
 
 
 #1 Lynx Is coming

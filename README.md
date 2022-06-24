@@ -14,3 +14,7 @@ Google Slide:
 Other linked repository:
 - https://github.com/EloiStree/HelloLynxR1
 - https://github.com/EloiStree/HelloOpenXR
+
+
+Video of the presentation:
+- Twitch: https://m.twitch.tv/videos/1512701604 à 4h48

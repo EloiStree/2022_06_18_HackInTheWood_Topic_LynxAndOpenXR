@@ -21,3 +21,4 @@ Other linked repository:
 
 Video of the presentation:
 - Twitch: https://m.twitch.tv/videos/1512701604 à 4h48
+[![image](https://user-images.githubusercontent.com/20149493/175761682-78ee91a3-bd06-45d1-a117-0520b42ed203.png)](https://m.twitch.tv/videos/1512701604 )

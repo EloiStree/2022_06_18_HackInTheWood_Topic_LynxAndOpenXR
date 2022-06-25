@@ -13,8 +13,10 @@ https://github.com/EloiStree/2022_06_18_HackInTheWood_Topic_LynxAndOpenXR/tree/m
 Google Slide:
 [![image](https://user-images.githubusercontent.com/20149493/175761702-d1f7bceb-3285-48bb-ab9a-241cb59cf370.png)](https://docs.google.com/presentation/d/1gVUTYY_wAOZR6TF3pnw4wGh7BjlUdNuoikgcT9Yvt24/edit?usp=sharing)
 
-Code of the demo: how to create your own device for kinect and hands:
+Code of the demo: how to create your own device for kinect and hands:  
 https://github.com/EloiStree/2022_06_21_AbstractBodyInputActionBased
+[![image](https://user-images.githubusercontent.com/20149493/175761753-467cb269-0ce2-4016-8ca6-288eb06ef77b.png)
+](https://github.com/EloiStree/2022_06_21_AbstractBodyInputActionBased)
 
 Other linked repository:
 - https://github.com/EloiStree/HelloLynxR1

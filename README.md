@@ -11,8 +11,7 @@ Feel free to check the "Note" folder where I wrote down some note and put the vi
 https://github.com/EloiStree/2022_06_18_HackInTheWood_Topic_LynxAndOpenXR/tree/main/Note
 
 Google Slide:
-- https://docs.google.com/presentation/d/1gVUTYY_wAOZR6TF3pnw4wGh7BjlUdNuoikgcT9Yvt24/edit?usp=sharing
-- Slide drop to contruct the main slide [v](https://docs.google.com/presentation/d/1fwGzOCaWWjLThRqQB6h6YEemq6csou14LidWxqCJPGI/edit#slide=id.g136300da733_0_18)
+[![image](https://user-images.githubusercontent.com/20149493/175761702-d1f7bceb-3285-48bb-ab9a-241cb59cf370.png)](https://docs.google.com/presentation/d/1gVUTYY_wAOZR6TF3pnw4wGh7BjlUdNuoikgcT9Yvt24/edit?usp=sharing)
 
 Other linked repository:
 - https://github.com/EloiStree/HelloLynxR1

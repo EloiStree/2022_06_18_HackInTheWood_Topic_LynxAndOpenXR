@@ -7,6 +7,9 @@ With COVID 19, I stopped having VR project but with the Lynx-R1 coming soon. I n
 
 So let's relearn how to create VR project but with the OpenXR and all the opensource lib the Lynx could/will use.
 
+Feel free to check the "Note" folder where I wrote down some note and put the video source to create the talk:
+https://github.com/EloiStree/2022_06_18_HackInTheWood_Topic_LynxAndOpenXR/tree/main/Note
+
 Google Slide:
 - https://docs.google.com/presentation/d/1gVUTYY_wAOZR6TF3pnw4wGh7BjlUdNuoikgcT9Yvt24/edit?usp=sharing
 - Slide drop to contruct the main slide [v](https://docs.google.com/presentation/d/1fwGzOCaWWjLThRqQB6h6YEemq6csou14LidWxqCJPGI/edit#slide=id.g136300da733_0_18)
